@@ -1,17 +1,17 @@
 body {
-    background-color: black;
+    background-color: beige;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
 }
 textarea {
-    background-color: grey;
+    background-color: aquamarine;
     width: 1000px;
     height: 500px;
 }
 h1{
-    color: red;
+    color: deeppink;
 }
 h1:hover{
     color: purple;
