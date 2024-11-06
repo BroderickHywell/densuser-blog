@@ -6,13 +6,13 @@ body {
     align-items: center;
 }
 textarea {
-    background-color: red;
+    background-color: grey;
     width: 1000px;
-    height: 1000px;
+    height: 500px;
 }
 h1{
     color: red;
 }
 h1:hover{
-
+    color: purple;
 }
